@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>COMPUTER</title>
+  <g>
+    <path d="M76,98.654v-6H52v6a8,8,0,0,1-8,8h0v6H84v-6h0A8,8,0,0,1,76,98.654Z" fill="#dddde3"/>
+    <rect x="44" y="106.654" width="40" height="6" fill="#ededf9"/>
+    <rect x="6.5" y="15.346" width="115" height="79.615" rx="3" fill="#3ea7fb"/>
+    <path d="M12.5,45.688a1.751,1.751,0,0,1-1.75-1.75v-6a1.75,1.75,0,0,1,3.5,0v6A1.751,1.751,0,0,1,12.5,45.688Z" fill="#0f89cc"/>
+    <path d="M6.5,76.962h115a0,0,0,0,1,0,0v15a3,3,0,0,1-3,3H9.5a3,3,0,0,1-3-3v-15a0,0,0,0,1,0,0Z" fill="#ededf9"/>
+    <circle cx="64" cy="85.962" r="3" fill="#3ea7fb"/>
+  </g>
+</svg>

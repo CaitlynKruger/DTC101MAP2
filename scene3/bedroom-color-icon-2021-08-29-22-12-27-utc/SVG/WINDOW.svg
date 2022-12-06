@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>WINDOW</title>
+  <g>
+    <rect x="24.192" y="6.5" width="79.615" height="110.5" fill="#3ea7fb"/>
+    <rect x="30.19" y="12.5" width="67.62" height="94" fill="#ededf9"/>
+    <path d="M91.81,42a1.75,1.75,0,0,1-1.75-1.75v-6a1.75,1.75,0,0,1,3.5,0v6A1.751,1.751,0,0,1,91.81,42Z" fill="#dddde3"/>
+    <polygon points="97.81 58.75 97.81 64.75 67 64.75 67 106.5 61 106.5 61 64.75 30.19 64.75 30.19 58.75 61 58.75 61 12.5 67 12.5 67 58.75 97.81 58.75" fill="#0f89cc"/>
+    <rect x="15.331" y="112.5" width="97.338" height="9" fill="#0f89cc"/>
+  </g>
+</svg>

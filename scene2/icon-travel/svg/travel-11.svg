@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EFCA08;stroke:#000000;stroke-width:9.1561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st1{fill:#F24D8B;stroke:#000000;stroke-width:9.1561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:#F24D8B;}
+	.st3{fill:none;stroke:#000000;stroke-width:9.1561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill:#47B39C;stroke:#000000;stroke-width:9.1561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st6{opacity:0.15;fill:none;stroke:#000000;stroke-width:9.1561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	
+		.st7{opacity:0.25;fill:none;stroke:#FFFFFF;stroke-width:9.1561;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g>
+	<g>
+		<path class="st0" d="M73.73,146.57c8.16,4.37,24.19,5.87,44.4,4.41l38.18-46.67L73.73,146.57z"/>
+		<path class="st1" d="M118.12,150.98c14.16-1.03,30.37-3.51,47.38-7.51l-9.2-39.17L118.12,150.98z"/>
+		<path class="st0" d="M165.51,143.48c17.01-3.99,32.63-8.98,45.77-14.37l-54.97-24.8L165.51,143.48z"/>
+		<path class="st2" d="M156.31,104.31l54.97,24.8c18.75-7.68,32.43-16.17,37.8-23.71L156.31,104.31z"/>
+		<path class="st3" d="M206.18,104.89l-49.87-0.59l54.97,24.8c18.75-7.68,32.43-16.17,37.8-23.71l-20.23-0.24"/>
+		<line class="st3" x1="178.19" y1="197.48" x2="165.51" y2="143.48"/>
+	</g>
+	<path class="st4" d="M247.14,358.67c-85.02,0-154.2-69.17-154.2-154.2c0-6.72,0.44-13.43,1.3-20.08h305.79
+		c0.87,6.65,1.3,13.37,1.3,20.08C401.34,289.5,332.16,358.67,247.14,358.67z"/>
+	<line class="st3" x1="287.67" y1="184.39" x2="289.34" y2="184.39"/>
+	<line class="st3" x1="253.19" y1="184.39" x2="269.14" y2="184.39"/>
+	<path class="st3" d="M308.9,184.39h91.13c0.87,6.65,1.3,13.37,1.3,20.08c0,85.02-69.17,154.2-154.2,154.2s-154.2-69.17-154.2-154.2
+		c0-6.72,0.44-13.43,1.3-20.08h142.41"/>
+	<path class="st5" d="M79.73,210.35c-2.68,12.04-4.1,24.55-4.1,37.39c0,94.72,76.79,171.51,171.51,171.51
+		c94.72,0,171.51-76.79,171.51-171.51c0-12.84-1.42-25.35-4.1-37.39H79.73z"/>
+	<path class="st5" d="M106.68,308.9c-4.19-9.58-7.42-19.66-9.58-30.13"/>
+	<path class="st5" d="M132.32,349.05c-5.2-5.89-9.95-12.17-14.21-18.81"/>
+	<line class="st3" x1="265.43" y1="228.67" x2="287.51" y2="228.67"/>
+	<line class="st3" x1="308.9" y1="228.67" x2="338.69" y2="228.67"/>
+	<path class="st6" d="M409.49,247.74c0,89.52-72.83,162.35-162.35,162.35c-89.52,0-162.35-72.83-162.35-162.35"/>
+	<line class="st7" x1="87.25" y1="219.51" x2="407.03" y2="219.51"/>
+	<polyline class="st3" points="363.51,184.39 391.51,92.8 438.88,107.93 	"/>
+</g>
+</svg>

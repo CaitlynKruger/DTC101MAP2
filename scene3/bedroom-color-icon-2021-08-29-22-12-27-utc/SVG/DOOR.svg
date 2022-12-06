@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <title>DOOR</title>
+  <g>
+    <rect x="24.192" y="6.5" width="79.615" height="113.125" fill="#663325"/>
+    <rect x="11.875" y="30.817" width="104.25" height="67.615" transform="translate(128.625 0.625) rotate(90)" fill="#f2a66c"/>
+    <rect x="52" y="8.692" width="24" height="49.615" transform="translate(97.5 -30.5) rotate(90)" fill="#ededf9"/>
+    <path d="M76.833,41.25H70.75a1.75,1.75,0,0,1,0-3.5h6.083a1.75,1.75,0,0,1,0,3.5Z" fill="#dddde3"/>
+    <path d="M18.331,115.5h91.338a3,3,0,0,1,3,3v3a0,0,0,0,1,0,0H15.331a0,0,0,0,1,0,0v-3A3,3,0,0,1,18.331,115.5Z" fill="#4f2217"/>
+    <circle cx="42.192" cy="70.625" r="3" fill="#ededf9"/>
+  </g>
+</svg>
