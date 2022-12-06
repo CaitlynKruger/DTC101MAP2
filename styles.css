@@ -54,51 +54,51 @@ p{
 }
 
 .bg1{
-	background-image: url("scene1/scene1.png");
+	background-image: url("scenes/scene1.png");
 	min-height: 100%;
 }
 
 .bg2{
-	background-image: url("scene2/scene2.png");
+	background-image: url("scenes/scene2.png");
 	min-height: 100%;
 }
 
 .bg3{
-	background-image: url("scene3/scene3.png");
+	background-image: url("scenes/scene3.png");
 	min-height: 100%;
 }
 
 .bg4{
-	background-image: url("scene4/scene4.png");
+	background-image: url("scenes/scene4.png");
 	min-height: 100%;
 }
 
 .bg5{
-	background-image: url("scene5/scene5.png");
+	background-image: url("scenes/scene5.png");
 	min-height: 100%;
 }
 
 .bg6{
-	background-image: url("scene6/scene6.png");
+	background-image: url("scenes/scene6.png");
 	min-height: 100%;
 }
 
 .bg7{
-	 background-image: url("scene7/scene7.png");
+	 background-image: url("scenes/scene7.png");
 	min-height: 100%;
 }
 
 .bg8{
-	background-image: url("scene8/scene8.png");
+	background-image: url("scenes/scene8.png");
 	min-height: 100%;
 }
 
 .bg9{
-	background-image: url("scene9/scene9.png");
+	background-image: url("scenes/scene9.png");
 	min-height: 100%;
 }
 
 .bg10{
-	background-image: url("scene10/scene10.jpg");
+	background-image: url("scenes/scene10.jpg");
 	min-height: 100%;
 }
